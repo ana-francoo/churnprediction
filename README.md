@@ -1,4 +1,4 @@
-# churnprediction
+# Leveraging AI Analytics to Predict and Manage Customer Churn
 
 ## Inspiration
 The cost of acquiring customers is often greater than retaining them.
